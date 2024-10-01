@@ -1,0 +1,4 @@
+Words translated from English to Swahili
+earth = kiwanja
+school = shule
+city = mji
